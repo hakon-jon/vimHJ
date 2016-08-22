@@ -1,0 +1,1 @@
+/home/hakon/.vim/ftplugin/vim-ipython/ftplugin/python/vim_ipython.py

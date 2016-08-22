@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/nfs/odinn/users/hakonj/Projects/denovo_muts_ug_2015_12_v3/article_gender_mut_spectra/results'
+let g:netrw_dirhist_2='/nfs/odinn/users/hakonj/Projects/denovo_muts_ug_2015_12_v3/article_gender_mut_spectra/results/phase'
+let g:netrw_dirhist_3='/nfs/odinn/users/hakonj/Projects/denovo_muts_ug_2015_12_v3/article_gender_mut_spectra/results'
+let g:netrw_dirhist_4='/nfs/odinn/users/hakonj/Projects/denovo_muts_ug_2015_12_v3/article_gender_mut_spectra/results/mut_rates'
+let g:netrw_dirhist_5='/nfs/odinn/users/hakonj/Projects/denovo_muts_ug_2015_12_v3/article_gender_mut_spectra/results'
+let g:netrw_dirhist_6='/nfs/odinn/users/hakonj/Projects/denovo_muts_ug_2015_12_v3/article_gender_mut_spectra/results/phase'
+let g:netrw_dirhist_7='/nfs/odinn/users/hakonj/Projects/denovo_muts_ug_2015_12_v3/article_gender_mut_spectra/results'
+let g:netrw_dirhist_8='/nfs/odinn/users/hakonj/Projects/denovo_muts_ug_2015_12_v3/article_gender_mut_spectra/results/3rdgen'
+let g:netrw_dirhist_9='/nfs/odinn/users/hakonj/Projects/denovo_muts_ug_2015_12_v3/article_gender_mut_spectra/results'
